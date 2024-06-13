@@ -13,7 +13,7 @@ server:
 spring:
   # 应用名称
   application:
-    name: bage-finance-admin-api
+    name: yangge-finance-admin-api
   # 数据库配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -31,6 +31,8 @@ spring:
       # 检查时会先把连接从池中拿出来（空闲的话），然后调用isValid()或执行connectionTestQuery来校验活性，如果通过校验，则放回池里。
       # 默认 0 （不启用），最小值为 30000 ms，必须小于 maxLifetime。支持 JMX 动态修改
       keepalive-time: 30000
+  profiles:
+    active: local
 
   jackson:
     time-zone: GMT+8
@@ -47,7 +49,7 @@ spring:
 # Mybatis
 mybatis:
   mapper-locations: classpath*:mapper/**/*Mapper.xml
-  type-aliases-package: com.bage
+  type-aliases-package: com.yangge
   configuration:
     map-underscore-to-camel-case: true
     default-statement-timeout: 15
