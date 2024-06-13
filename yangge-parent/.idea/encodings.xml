@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../yangge-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-finance-admin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-finance-admin-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-finance-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-finance-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-finance-biz/yangge-finance-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-finance-biz/yangge-finance-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangge-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangge-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-wx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../yangge-wx/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
