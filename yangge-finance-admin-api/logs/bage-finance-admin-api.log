@@ -1,0 +1,136 @@
+2024-06-13 18:55:07.694 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 46560 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 18:55:07.695 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 18:55:07.695 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 18:55:08.435 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 18:55:08.783 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 18:55:08.783 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 18:55:08.863 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 18:55:11.046 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.803 seconds (JVM running for 4.913)
+2024-06-13 19:01:26.927 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 39584 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 19:01:26.929 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 19:01:26.929 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 19:01:27.788 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 19:01:28.171 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 19:01:28.171 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 19:01:28.293 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 19:01:30.153 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.782 seconds (JVM running for 5.163)
+2024-06-13 19:02:04.070 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-13 19:30:47.458 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 51756 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 19:30:47.460 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 19:30:47.460 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 19:30:48.286 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 19:30:48.648 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 19:30:48.649 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 19:30:48.739 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 19:30:50.903 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.944 seconds (JVM running for 5.053)
+2024-06-13 19:31:14.484 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-13 19:48:16.820 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 9868 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 19:48:16.823 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 19:48:16.823 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 19:48:17.561 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 19:48:17.874 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 19:48:17.876 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 19:48:17.961 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 19:48:20.027 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.738 seconds (JVM running for 4.87)
+2024-06-13 19:48:33.171 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-13 19:48:33.247 [http-nio-8091-exec-1] ERROR c.y.c.e.GlobalExceptionHandler - BindException:
+org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'getBase64CodeRequest' on field 'clientId': rejected value [1a15a4cf950d469cb7076b307469e788-]; codes [Pattern.getBase64CodeRequest.clientId,Pattern.clientId,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [getBase64CodeRequest.clientId,clientId]; arguments []; default message [clientId],[Ljavax.validation.constraints.Pattern$Flag;@82413f,^[0-9A-Za-z]{6,32}$]; default message [clientId非法]
+	at org.springframework.web.method.annotation.ModelAttributeMethodProcessor.resolveArgument(ModelAttributeMethodProcessor.java:175)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2024-06-13 19:51:22.052 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 14608 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 19:51:22.054 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 19:51:22.054 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 19:51:22.860 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 19:51:23.198 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 19:51:23.198 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 19:51:23.337 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 19:51:25.390 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.887 seconds (JVM running for 5.358)
+2024-06-13 20:00:15.477 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 45168 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 20:00:15.479 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 20:00:15.479 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 20:00:16.308 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 20:00:16.609 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 20:00:16.609 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 20:00:16.712 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 20:00:18.171 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-13 20:00:18.176 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-13 20:00:18.627 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.752 seconds (JVM running for 4.96)
+2024-06-13 20:01:25.323 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-13 20:03:38.538 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 3508 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 20:03:38.542 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 20:03:38.543 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 20:03:39.628 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 20:03:40.063 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 20:03:40.064 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 20:03:40.178 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 20:03:42.037 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-13 20:03:42.040 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-13 20:03:42.525 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-13 20:03:46.230 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 8.2 seconds (JVM running for 9.791)
+2024-06-13 20:05:39.825 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 42372 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 20:05:39.827 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 20:05:39.827 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 20:05:40.678 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 20:05:41.045 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 20:05:41.045 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 20:05:41.142 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 20:05:42.533 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-13 20:05:42.537 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-13 20:05:43.094 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.882 seconds (JVM running for 5.072)
+2024-06-13 20:05:54.938 [main] INFO  c.yangge.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_401 on love with PID 17212 (D:\java项目\单体项目\sass-财务系统\后端代码\yangge-finance-admin-api\target\classes started by 20406 in D:\java项目\单体项目\sass-财务系统\后端代码\yangge-parent)
+2024-06-13 20:05:54.940 [main] DEBUG c.yangge.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-13 20:05:54.941 [main] INFO  c.yangge.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-13 20:05:55.855 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yangge]' package. Please check your configuration.
+2024-06-13 20:05:56.259 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-13 20:05:56.259 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-13 20:05:56.381 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-13 20:05:57.869 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-13 20:05:57.873 [main] INFO  c.y.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-13 20:05:58.386 [main] INFO  c.yangge.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 4.05 seconds (JVM running for 5.433)

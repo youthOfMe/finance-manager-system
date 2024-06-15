@@ -4,7 +4,7 @@ spring:
   #    active: local
   # 数据库配置
   datasource:
-    url: jdbc:mysql://154.40.42.11:3306/yangge-finance-local?useUnicode=true&useSSL=false&characterEncoding=utf8&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://154.64.245.11:3306/yangge-finance-local?useUnicode=true&useSSL=false&characterEncoding=utf8&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
     username: root
     password: root
   # redis配置
