@@ -2,6 +2,7 @@ package com.yangge.finance.admin.api.controller;
 
 import com.yangge.common.dto.ApiResponse;
 import com.yangge.finance.biz.dto.form.GetBase64CodeRequest;
+import com.yangge.finance.biz.dto.form.GetSmsCodeForm;
 import com.yangge.finance.biz.service.MemberLoginService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -33,5 +34,12 @@ public class LoginController {
     @GetMapping("/getBase64Code")
     public ApiResponse<String> getBase64Code(@Validated @ModelAttribute GetBase64CodeRequest form) {
         return ApiResponse.success(memberLoginService.getBase64Code(form));
+    }
+
+    @ApiOperation("获取短信验证码")
+    @GetMapping("/sendSmsCode")
+    public ApiResponse<Void> sendSmsCode(@Validated @ModelAttribute GetSmsCodeForm form) {
+        memberLoginService.sendSmsCode(form);
+        return ApiResponse.success();
     }
 }
