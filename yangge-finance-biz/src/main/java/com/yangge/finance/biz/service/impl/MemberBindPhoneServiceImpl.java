@@ -32,4 +32,14 @@ public class MemberBindPhoneServiceImpl implements MemberBindPhoneService {
         // select member_id,phone,password from member_bind_phone where phone = ?
         return memberBindPhoneMapper.topOne(myBatisWrapper);
     }
+
+    @Override
+    public boolean reg(String phone, long memberId, String password) {
+        MemberBindPhone memberBindPhone = new MemberBindPhone();
+        memberBindPhone.setMemberId(memberId);
+        memberBindPhone.setPhone(phone);
+        memberBindPhone.setPassword(password);
+        memberBindPhone.initDefault();
+        return memberBindPhoneMapper.insert(memberBindPhone) > 0;
+    }
 }
