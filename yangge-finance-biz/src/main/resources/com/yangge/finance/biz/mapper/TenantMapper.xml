@@ -125,7 +125,7 @@
       del_flag = #{delFlag,jdbcType=BIT}
     where id = #{id,jdbcType=BIGINT}
   </update>
-  <select id="list" parameterType="com.bage.mybatis.help.MyBatisWrapper" resultMap="BaseResultMap">
+  <select id="list" parameterType="com.yangge.mybatis.help.MyBatisWrapper" resultMap="BaseResultMap">
         <include refid="listSql"/>
     </select>
     <sql id="listSql">
@@ -194,7 +194,7 @@
                 </foreach>
             </trim>
         </where></sql>
-    <select id="topOne" parameterType="com.bage.mybatis.help.MyBatisWrapper" resultMap="BaseResultMap">
+    <select id="topOne" parameterType="com.yangge.mybatis.help.MyBatisWrapper" resultMap="BaseResultMap">
     select
     <if test="selectBuilder != null">
       <trim prefixOverrides="," suffixOverrides=",">
@@ -211,7 +211,7 @@
     limit 1
   </select>
 
-  <select id="count" parameterType="com.bage.mybatis.help.MyBatisWrapper" resultType="java.lang.Integer">
+  <select id="count" parameterType="com.yangge.mybatis.help.MyBatisWrapper" resultType="java.lang.Integer">
         <include refid="countSql"/>
     </select>
     <sql id="countSql">
@@ -220,7 +220,7 @@
             <include refid="Example_Where_Clause"/>
         </if>
     </sql>
-  <update id="updateField" parameterType="com.bage.mybatis.help.MyBatisWrapper">
+  <update id="updateField" parameterType="com.yangge.mybatis.help.MyBatisWrapper">
     update tenant 
     set 
     <trim prefixOverrides="," suffixOverrides=",">
@@ -278,7 +278,7 @@
                    <include refid="Update_By_Example_Where_Clause" />
                </if>           </foreach>
   </update>
-    <select id="get" parameterType="com.bage.mybatis.help.MyBatisWrapper" resultMap="BaseResultMap">
+    <select id="get" parameterType="com.yangge.mybatis.help.MyBatisWrapper" resultMap="BaseResultMap">
     select
     <if test="selectBuilder != null">
       <trim prefixOverrides="," suffixOverrides=",">

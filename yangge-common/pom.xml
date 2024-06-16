@@ -8,12 +8,12 @@
         <groupId>com.yangge</groupId>
         <artifactId>yangge-parent</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath />
     </parent>
 
-    <groupId>com.yangge</groupId>
     <artifactId>yangge-common</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>yangge-common</name>
+    <name>yang-common</name>
     <packaging>jar</packaging>
 
     <properties>

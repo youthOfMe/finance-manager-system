@@ -46,6 +46,7 @@ public class MemberLoginServiceImpl implements MemberLoginService {
     public String getBase64Code(GetBase64CodeRequest form) {
         LineCaptcha lineCaptcha = CaptchaUtil.createLineCaptcha(300, 192, 5, 1000);
         String code = lineCaptcha.getCode();
+        log.info("获取图形验证码: {}", code);
         // 将图形验证码写到redis缓存中
         redisTemplate.opsForValue().set(RedisKeyConstant.GRAPHIC_VERIFICATION_CODE + form.getClientId(), code, 15, TimeUnit.MINUTES);
         return lineCaptcha.getImageBase64();
