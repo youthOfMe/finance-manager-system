@@ -73,6 +73,9 @@ knife4j:
 logging:
   config: classpath:logback-spring-${spring.profiles.active}.xml
 
+redisson:
+  address: redis://154.64.245.11:6379
+
 security:
   # 开启安全校验
   enable: true
